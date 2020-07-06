@@ -1,4 +1,4 @@
-# Webgl2 test
+# WebGL2 test
 
 ## Start local webserver
 
